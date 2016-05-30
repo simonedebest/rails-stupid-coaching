@@ -1,0 +1,29 @@
+// Place all the styles related to the Coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.wrapper-coach{
+  padding: 50px;
+}
+
+.wrapper-coach p{
+  padding: 10px;
+  background-color: lightblue;
+}
+
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: lightblue;
+}
+
+.link_coach{
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid lightblue;
+}
+
+#question{
+  background-color: lightblue;
+}
